@@ -1,9 +1,12 @@
 ---
-layout: default
+title: "Yun Ye"
+description: "AI Software Engineer @ Intel"
 ---
 
-# Yun Ye
+# About Me
 
-AI Software Engineer
-Amateur Researcher
+I'm a amateur researcher. 
 
+## Research Interests
+
+I'm interested in topics without requirements of much compute power.
